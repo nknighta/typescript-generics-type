@@ -1,0 +1,14 @@
+{
+  "name": "typescript-generics-type",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npx tsc -p . && node ."
+  },
+  "repository": "https://github.com/nknighta/typescript-generics-type",
+  "author": "nknighta <n.knight.pc0627@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
